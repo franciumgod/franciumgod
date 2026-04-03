@@ -1,26 +1,23 @@
-# Hi there, I'm franciumgod 👋
+# FranciumGod
 
-### 🔭 Senior Student at Wuhan University | Electronic Information
-> 探索电子信息的边界，融合硬件逻辑与算法之美。
-
----
-
-### 🧠 Core Focus
-- **Time Series Analysis** ⏱️: 深入挖掘数据序列背后的规律。
-- **Embedded Systems** 💡: 软硬结合，从底层代码控制物理世界。
-- **Vibe Coding** 🌊: 享受与 AI 协作的编程流状态，追求直觉式开发。
+**Senior Undergraduate | School of Electronic Information, Wuhan University**  
+*Focus: Time Series Analysis, Embedded Systems, Computational Modeling*
 
 ---
 
-### 🛠 Tech Stack
-| Languages & Tools | Status |
+### 🔬 Research & Technical Interests
+- **Time Series Analysis:** Statistical modeling, signal processing, and predictive analytics for sequential datasets.
+- **Embedded Systems:** Low-level firmware development, real-time control architectures, and hardware-software co-design.
+- **AI-Augmented Workflow:** Leveraging modern development paradigms for rapid algorithm prototyping and rigorous code validation.
+
+### 🛠 Technical Proficiency
+| Domain | Tools & Languages |
 | :--- | :--- |
-| **Python** |  Expert (Data & Scripting) |
-| **MATLAB** | 🟢 Proficient (Algorithm & Simulation) |
-| **C** | 🟢 Proficient (Embedded & Low-level) |
+| **Programming** | Python, C, MATLAB |
+| **Data & Analysis** | NumPy, SciPy, Pandas, Signal Processing Toolboxes |
+| **Embedded** | Microcontroller architectures, Real-time system design, Circuit integration |
 
----
-
-### 📊 Github Stats
-<!-- 这里可以后续添加 github-readme-stats 图片 -->
-![](https://komarev.com/ghpvc/?username=franciumgod&style=flat-square&color=5865F2)
+### 📫 Contact
+- 📧 Email: `[your-email]@whu.edu.cn`
+- 🔗 GitHub: [franciumgod](https://github.com/franciumgod)
+- 🎓 Education: B.Eng. Electronic Information, Wuhan University (Expected 2026)
