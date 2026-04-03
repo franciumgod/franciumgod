@@ -18,6 +18,5 @@
 | **Embedded** | Microcontroller architectures, Real-time system design, Circuit integration |
 
 ### 📫 Contact
-- 📧 Email: `[your-email]@whu.edu.cn`
 - 🔗 GitHub: [franciumgod](https://github.com/franciumgod)
 - 🎓 Education: B.Eng. Electronic Information, Wuhan University (Expected 2026)
